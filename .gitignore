@@ -1,0 +1,7 @@
+# Compiled source #
+###################
+*.png
+*.mp4
+*.jpg
+*.npy
+*.ppm
